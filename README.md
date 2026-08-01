@@ -18,6 +18,19 @@
 
 > فایل Universal برای بیشتر کاربران اندروید پیشنهاد می‌شود. فایل‌های معماری‌محور نیز در صفحه Release موجودند.
 
+## ارتباط با ما
+
+- [تلگرام NovaLink](https://t.me/NovaLink0_0)
+- [X / Twitter](https://x.com/morteza24x)
+
+## حمایت مالی
+
+آدرس دونیت:
+
+```text
+0x7753a4f58B456f95A452E5cc030ad518E371277E
+```
+
 ---
 
 Official binary downloads for NovaLink VPN. Source code is not published in this repository.
