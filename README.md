@@ -1,41 +1,40 @@
 # NovaLink VPN
 
-دانلود رسمی NovaLink VPN برای ویندوز و اندروید. این مخزن فقط برای انتشار فایل‌های آماده نصب است و سورس برنامه در آن منتشر نمی‌شود.
+Official NovaLink VPN downloads for Windows and Android.
 
-## دانلود نسخه‌ها
+This repository is used exclusively to distribute ready-to-install application packages. The source code is not published in this repository.
 
-### Windows — 2.3.67
+## Downloads
 
-[⬇️ دانلود مستقیم نسخه ویندوز](https://github.com/Morteza1x/NovaLink/releases/download/windows-v2.3.67/NovaLink.VPN-2.3.67.exe)
+### Windows — Version 2.3.120
 
-[مشاهده جزئیات و SHA-256](https://github.com/Morteza1x/NovaLink/releases/tag/windows-v2.3.67)
+[⬇️ Download NovaLink VPN for Windows](https://github.com/Morteza1x/NovaLink/releases/download/windows-v2.3.120/NovaLink.VPN-2.3.120.exe)
 
-### Android — 2.3.18
+[View release details and SHA-256](https://github.com/Morteza1x/NovaLink/releases/tag/windows-v2.3.120)
 
-[⬇️ دانلود مستقیم Universal APK](https://github.com/Morteza1x/NovaLink/releases/download/android-v2.3.18/NovaLink_2.3.18_universal.apk)
+### Android — Version 2.3.18
 
-[مشاهده همه نسخه‌های اندروید و SHA-256](https://github.com/Morteza1x/NovaLink/releases/tag/android-v2.3.18)
+[⬇️ Download the Universal APK](https://github.com/Morteza1x/NovaLink/releases/download/android-v2.3.18/NovaLink_2.3.18_universal.apk)
 
-> فایل Universal برای بیشتر کاربران اندروید پیشنهاد می‌شود. فایل‌های معماری‌محور نیز در صفحه Release موجودند.
+[View all Android packages and SHA-256 checksums](https://github.com/Morteza1x/NovaLink/releases/tag/android-v2.3.18)
 
-## ارتباط با ما
+> The Universal APK is recommended for most Android users. Architecture-specific APK files are also available on the release page.
 
-- [تلگرام NovaLink](https://t.me/NovaLink0_0)
+## Download Safety
+
+Download NovaLink VPN only from the official Releases section of this repository.
+
+The Windows installer is not currently digitally signed, so Windows SmartScreen may display a warning. You can verify the downloaded file using the SHA-256 checksum provided on its release page.
+
+## Community
+
+- [Telegram](https://t.me/NovaLink0_0)
 - [X / Twitter](https://x.com/morteza24x)
 
-## حمایت مالی
+## Donate
 
-**شبکه: Ethereum (ETH)**
+**Network:** Ethereum (ETH)
 
-آدرس کیف پول:
+**Address:**
 
-```text
-0x7753a4f58B456f95A452E5cc030ad518E371277E
-```
-
-
----
-
-Official binary downloads for NovaLink VPN. Source code is not published in this repository.
-
-[View all releases](https://github.com/Morteza1x/NovaLink/releases)
+`0x7753a4f58B456f95A452E5cc030ad518E371277E`
